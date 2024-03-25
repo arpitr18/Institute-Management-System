@@ -1,4 +1,4 @@
-![image](https://github.com/arpitr18/Institute-Management-System/assets/114918704/495b672b-045b-41f8-9231-7b1226284c84)# Institute-Management-System
+# Institute-Management-System
 The Institute Management System can be used to store student information like attendance, fees, and student  result. Using this system, we can register new student and their course details. We can submit student’s fees and can check fees details anytime. We can create exam result and submit in this system.
 We can also add new  employee in the system and can check details of the employee easily.
 
